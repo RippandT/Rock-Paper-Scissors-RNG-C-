@@ -1,0 +1,7 @@
+C:\Users\cobya\Documents\Developer\Program Development\RockPaperScissorsCSharp\RockPaperScissorsCSharp\bin\Debug\RockPaperScissorsCSharp.exe.config
+C:\Users\cobya\Documents\Developer\Program Development\RockPaperScissorsCSharp\RockPaperScissorsCSharp\bin\Debug\RockPaperScissorsCSharp.exe
+C:\Users\cobya\Documents\Developer\Program Development\RockPaperScissorsCSharp\RockPaperScissorsCSharp\bin\Debug\RockPaperScissorsCSharp.pdb
+C:\Users\cobya\Documents\Developer\Program Development\RockPaperScissorsCSharp\RockPaperScissorsCSharp\obj\Debug\RockPaperScissorsCSharp.csprojAssemblyReference.cache
+C:\Users\cobya\Documents\Developer\Program Development\RockPaperScissorsCSharp\RockPaperScissorsCSharp\obj\Debug\RockPaperScissorsCSharp.csproj.CoreCompileInputs.cache
+C:\Users\cobya\Documents\Developer\Program Development\RockPaperScissorsCSharp\RockPaperScissorsCSharp\obj\Debug\RockPaperScissorsCSharp.exe
+C:\Users\cobya\Documents\Developer\Program Development\RockPaperScissorsCSharp\RockPaperScissorsCSharp\obj\Debug\RockPaperScissorsCSharp.pdb

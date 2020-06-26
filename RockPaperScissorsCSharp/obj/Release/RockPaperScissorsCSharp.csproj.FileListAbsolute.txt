@@ -1,0 +1,6 @@
+C:\Users\cobya\Documents\Developer\Program Development\RockPaperScissorsCSharp\RockPaperScissorsCSharp\bin\Release\RockPaperScissorsCSharp.exe.config
+C:\Users\cobya\Documents\Developer\Program Development\RockPaperScissorsCSharp\RockPaperScissorsCSharp\bin\Release\RockPaperScissorsCSharp.exe
+C:\Users\cobya\Documents\Developer\Program Development\RockPaperScissorsCSharp\RockPaperScissorsCSharp\bin\Release\RockPaperScissorsCSharp.pdb
+C:\Users\cobya\Documents\Developer\Program Development\RockPaperScissorsCSharp\RockPaperScissorsCSharp\obj\Release\RockPaperScissorsCSharp.csproj.CoreCompileInputs.cache
+C:\Users\cobya\Documents\Developer\Program Development\RockPaperScissorsCSharp\RockPaperScissorsCSharp\obj\Release\RockPaperScissorsCSharp.exe
+C:\Users\cobya\Documents\Developer\Program Development\RockPaperScissorsCSharp\RockPaperScissorsCSharp\obj\Release\RockPaperScissorsCSharp.pdb
